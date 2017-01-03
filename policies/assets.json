@@ -1,0 +1,26 @@
+{
+    "IIT_Guwahati-Virtual_Electrical_Machine.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE01", 
+            "name": "IIT_Guwahati-Virtual_Electrical_Machine.jpg", 
+            "org": "IIT-Guwahati", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "IIT Guwahati-Virtual Electrical Machine.jpg", 
+        "filename": "asset-v1:IIT-Guwahati+EEE01+Anytime+type@asset+block@IIT_Guwahati-Virtual_Electrical_Machine.jpg", 
+        "import_path": "IIT Guwahati-Virtual Electrical Machine.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "IIT-Guwahati", 
+            "EEE01", 
+            "thumbnail", 
+            "IIT_Guwahati-Virtual_Electrical_Machine.jpg", 
+            null
+        ]
+    }
+}
